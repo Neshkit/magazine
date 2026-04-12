@@ -20,7 +20,7 @@ class App extends React.Component {
               id: 1,
               title: 'серый стул',
               img: 'seryi-styl.jpeg',
-              desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod!',
+              desc: 'Эргономичный серый стул — идеальное решение для гостиной или кабинета.',
               category: 'chairs',
               price: '9500'
             },
@@ -28,7 +28,7 @@ class App extends React.Component {
               id: 2,
               title: 'стол',
               img: 'table.jpg',
-              desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod!',
+              desc: 'Прочный и стильный стол в готическом стиле — идеальное решение для вашего дома.',
               category: 'tables',
               price: '40000'
             },
@@ -36,7 +36,7 @@ class App extends React.Component {
               id: 3,
               title: 'кресло',
               img: 'chair.jpg',
-              desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod!',
+              desc: 'Эргономичное кресло — идеальное решение для вашего дома.',
               category: 'chairs',
               price: '25000'
             },
@@ -44,7 +44,7 @@ class App extends React.Component {
               id: 4,
               title: 'диван',
               img: 'divan.jpg',
-              desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod!',
+              desc: 'Уютный диван — идеальное решение для вашей гостиной.',
               category: 'sofa',
               price: '55000'
             },
@@ -52,7 +52,7 @@ class App extends React.Component {
               id: 5,
               title: 'лампа',
               img: 'lampa.jpg',
-              desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod!',
+              desc: 'Эргономичная лампа — идеальное решение для вашего дома.',
               category: 'light',
               price: '7500'
             },
